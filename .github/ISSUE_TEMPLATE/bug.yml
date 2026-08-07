@@ -1,0 +1,54 @@
+name: Defeito
+description: Relatar comportamento incorreto com dados sanitizados
+title: "fix: "
+labels: []
+body:
+  - type: input
+    id: version
+    attributes:
+      label: Versão
+      placeholder: 0.1.0
+    validations:
+      required: true
+  - type: dropdown
+    id: impact
+    attributes:
+      label: Impacto
+      options:
+        - Crítico — perda, corrupção ou acesso indevido
+        - Alto — fluxo principal indisponível
+        - Médio — alternativa existente
+        - Baixo — inconveniência pequena
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: Passos para reproduzir
+      description: Use somente dados fictícios.
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: Resultado esperado
+    validations:
+      required: true
+  - type: textarea
+    id: actual
+    attributes:
+      label: Resultado obtido
+    validations:
+      required: true
+  - type: textarea
+    id: evidence
+    attributes:
+      label: Evidências sanitizadas
+  - type: checkboxes
+    id: privacy
+    attributes:
+      label: Confirmação
+      options:
+        - label: Removi credenciais, XMLs e dados pessoais reais.
+          required: true
+
