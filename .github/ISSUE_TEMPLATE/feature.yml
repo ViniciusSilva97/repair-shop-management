@@ -1,0 +1,46 @@
+name: Funcionalidade
+description: Propor uma funcionalidade ou evolução do produto
+title: "feat: "
+labels: []
+body:
+  - type: textarea
+    id: problem
+    attributes:
+      label: Problema do usuário
+      description: Descreva a necessidade sem antecipar a solução.
+    validations:
+      required: true
+  - type: textarea
+    id: scope
+    attributes:
+      label: Escopo
+      description: O que esta entrega deve incluir?
+    validations:
+      required: true
+  - type: textarea
+    id: out_of_scope
+    attributes:
+      label: Fora do escopo
+  - type: textarea
+    id: requirements
+    attributes:
+      label: Requisitos relacionados
+      description: Informe IDs como RF-OS-001.
+  - type: textarea
+    id: acceptance
+    attributes:
+      label: Critérios de aceite
+      placeholder: "- [ ] ..."
+    validations:
+      required: true
+  - type: checkboxes
+    id: risks
+    attributes:
+      label: Áreas de risco
+      options:
+        - label: Dados ou migração
+        - label: Segurança ou privacidade
+        - label: Estoque, custo ou financeiro
+        - label: XML ou obrigação fiscal
+        - label: Instalação, atualização ou rede
+

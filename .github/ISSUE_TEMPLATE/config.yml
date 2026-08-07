@@ -1,0 +1,6 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Relato de segurança
+    url: https://github.com/ViniciusSilva97/repair-shop-management/security
+    about: Não publique credenciais ou dados de clientes em issues.
+
