@@ -1,0 +1,135 @@
+# Licença de Código-Fonte Disponível para Uso Interno — Sem Revenda e Sem SaaS
+
+**Versão 1.0 — 15 de agosto de 2026**  
+**Copyright © 2026 Vinicius Silva. Todos os direitos reservados.**
+
+Esta licença regula o uso do software, de seu código-fonte e da documentação que a acompanhe (conjuntamente, o **“Software”**). O Software é disponibilizado sob modelo de **código-fonte disponível** (*source available*) e não sob licença de código aberto (*open source*).
+
+Ao baixar, copiar, instalar, executar, modificar ou utilizar o Software, a pessoa física ou jurídica que realizar qualquer desses atos (o **“Licenciado”**) declara que leu, compreendeu e aceitou integralmente os termos desta licença.
+
+## 1. Definições
+
+Para os fins desta licença:
+
+1. **Titular** significa Vinicius Silva ou eventual pessoa física ou jurídica que venha a adquirir formalmente os direitos patrimoniais sobre o Software.
+2. **Uso Interno** significa o uso do Software exclusivamente nas atividades próprias do Licenciado, por seus empregados, administradores e prestadores de serviço autorizados, sem disponibilização do Software como produto ou serviço a clientes ou terceiros.
+3. **Usuários Autorizados** são empregados, administradores e prestadores de serviço que necessitem acessar o Software exclusivamente em nome e benefício do Licenciado. Prestadores de serviço deverão estar sujeitos a obrigações de confidencialidade e não receberão direitos independentes sobre o Software.
+4. **Modificação** significa qualquer alteração, adaptação, tradução, extensão, integração ou obra derivada baseada total ou parcialmente no Software.
+5. **Distribuição** significa vender, doar, compartilhar, publicar, transferir, sublicenciar, disponibilizar para download ou fornecer cópias do Software ou de uma Modificação a terceiros, por qualquer meio.
+6. **SaaS ou Serviço Gerenciado** significa permitir que clientes ou terceiros utilizem, acessem ou se beneficiem das funcionalidades substanciais do Software por internet, rede, nuvem, API, terminal remoto, aplicativo hospedado ou qualquer outro meio, com ou sem remuneração e independentemente de a instalação ser dedicada ou compartilhada.
+7. **Contribuição** significa código, documentação, correção, sugestão implementada ou outro material enviado intencionalmente ao Titular para possível incorporação ao Software, inclusive por *pull request*, *patch*, *commit*, issue ou outro canal indicado pelo projeto.
+
+## 2. Permissões concedidas
+
+Enquanto cumprir integralmente esta licença, o Licenciado recebe uma licença limitada, gratuita, não exclusiva, mundial, intransferível e não sublicenciável para:
+
+1. baixar, instalar e executar o Software;
+2. utilizar o Software nas suas próprias operações internas, inclusive em servidores, computadores e infraestrutura de nuvem controlados pelo Licenciado;
+3. permitir o acesso aos Usuários Autorizados exclusivamente para Uso Interno;
+4. criar Modificações exclusivamente para Uso Interno;
+5. produzir cópias razoavelmente necessárias para instalação, testes, desenvolvimento interno, continuidade operacional e segurança (*backup*); e
+6. utilizar interfaces voltadas aos próprios clientes do Licenciado quando essas interfaces forem meramente acessórias à atividade principal do Licenciado e não tiverem por finalidade oferecer o próprio Software, ou suas funcionalidades substanciais, como produto, plataforma, infraestrutura ou serviço tecnológico a terceiros.
+
+As permissões desta seção não transferem propriedade, titularidade ou qualquer direito não concedido expressamente.
+
+## 3. Restrições
+
+Sem autorização prévia, expressa e escrita do Titular, o Licenciado não poderá, direta ou indiretamente:
+
+1. vender, revender, alugar, arrendar, sublicenciar, ceder, transferir, franquear ou comercializar o Software ou qualquer Modificação;
+2. realizar a Distribuição do Software ou de qualquer Modificação, gratuita ou onerosamente, salvo cópias estritamente necessárias aos Usuários Autorizados;
+3. oferecer, operar ou disponibilizar o Software ou qualquer Modificação como SaaS, Serviço Gerenciado, hospedagem, plataforma, API comercial, serviço de terceirização, serviço de processamento para terceiros ou modalidade equivalente;
+4. utilizar o Software ou partes substanciais dele para desenvolver, operar ou oferecer produto ou serviço destinado a terceiros que reproduza ou substitua funcionalidades substanciais do Software;
+5. incorporar o Software ou partes substanciais dele em produto, serviço, equipamento ou solução que seja vendido, licenciado, alugado ou disponibilizado a terceiros;
+6. prestar consultoria, implantação, customização, suporte, treinamento ou qualquer outro serviço remunerado cujo objeto principal seja o Software;
+7. remover, ocultar ou alterar avisos de autoria, titularidade, marca, licença ou atribuição presentes no Software;
+8. contornar ou desabilitar chaves de licença, controles de acesso, limites técnicos, mecanismos de proteção ou verificação implementados pelo Titular;
+9. utilizar nomes comerciais, marcas, logotipos, identidade visual ou sinais distintivos do Titular, salvo autorização escrita específica; ou
+10. declarar ou sugerir que possui autorização comercial, parceria, certificação, representação ou vínculo com o Titular.
+
+Uma bifurcação (*fork*) ou cópia realizada exclusivamente por funcionalidade da plataforma pública de hospedagem não concede direitos adicionais e continuará integralmente sujeita a esta licença e aos termos obrigatórios da respectiva plataforma.
+
+## 4. Modificações e obras derivadas
+
+1. O Licenciado poderá manter Modificações privadas somente para Uso Interno e não poderá explorá-las de maneira incompatível com esta licença.
+2. A autorização para criar Modificações não constitui autorização para distribuí-las, comercializá-las ou oferecê-las como serviço.
+3. O Licenciado conserva os direitos que a lei eventualmente lhe atribua sobre elementos originais criados exclusivamente por ele, mas esses elementos, quando incorporados ao Software ou dele dependentes, permanecerão sujeitos às restrições desta licença.
+4. Nenhuma Modificação reduzirá, substituirá ou eliminará os direitos do Titular sobre o Software original.
+
+## 5. Contribuições ao projeto
+
+Ao enviar intencionalmente uma Contribuição, o respectivo autor declara que possui os direitos necessários para fazê-lo e concede ao Titular uma licença sobre a Contribuição que seja:
+
+1. mundial, gratuita, irrevogável e por prazo equivalente ao de proteção legal aplicável;
+2. não exclusiva, transferível e sublicenciável em múltiplos níveis;
+3. válida para reproduzir, modificar, adaptar, integrar, distribuir, publicar, vender, licenciar e explorar comercialmente a Contribuição;
+4. válida para disponibilizar a Contribuição como parte de produto, serviço, SaaS ou Serviço Gerenciado; e
+5. válida para relicenciar a Contribuição sob esta licença ou sob qualquer outra licença, gratuita, comercial ou proprietária.
+
+O envio de uma Contribuição não obriga o Titular a aceitá-la, incorporá-la, publicá-la, remunerá-la ou atribuir ao contribuidor participação econômica no Software.
+
+Contribuições realizadas em nome de empresa, empregador ou cliente somente poderão ser enviadas por pessoa autorizada a conceder os direitos previstos nesta seção.
+
+## 6. Componentes de terceiros
+
+Bibliotecas, dependências, fontes, imagens, modelos, dados e outros componentes de terceiros incluídos no Software poderão estar sujeitos às suas próprias licenças. Esta licença não amplia, reduz nem substitui os direitos e obrigações aplicáveis a esses componentes. O Licenciado deverá cumprir todas as licenças de terceiros correspondentes.
+
+## 7. Titularidade e reserva de direitos
+
+1. O Software original, sua documentação e todos os direitos não concedidos expressamente permanecem pertencentes ao Titular.
+2. As restrições desta licença aplicam-se aos Licenciados e não limitam o Titular.
+3. O Titular permanece livre para usar, copiar, modificar, distribuir, vender, sublicenciar, transferir, comercializar e disponibilizar o Software como SaaS ou Serviço Gerenciado.
+4. O Titular poderá conceder licenças diferentes sobre o Software, simultaneamente ou em momentos distintos, inclusive licenças gratuitas, comerciais, proprietárias ou exclusivas.
+5. Nenhuma disposição desta licença obriga o Titular a disponibilizar versões futuras, atualizações, suporte, documentação adicional ou código-fonte não publicado.
+
+## 8. Licenciamento comercial
+
+Qualquer uso não permitido expressamente nesta licença dependerá de contrato comercial separado, assinado pelo Titular ou por seu representante legalmente autorizado.
+
+O recebimento de proposta, negociação, orçamento ou pagamento não altera esta licença nem concede autorização comercial enquanto não houver instrumento escrito que identifique os direitos concedidos.
+
+## 9. Vigência e encerramento
+
+1. Esta licença entra em vigor no primeiro ato de aceitação descrito no início do documento e permanecerá válida enquanto seus termos forem cumpridos.
+2. A licença e todas as permissões concedidas ao Licenciado serão automaticamente encerradas caso ele viole qualquer disposição, independentemente de aviso prévio.
+3. Após o encerramento, o Licenciado deverá cessar imediatamente o uso e destruir ou apagar todas as cópias do Software e das Modificações sob seu controle, exceto uma cópia arquivística quando sua conservação for obrigatória por lei.
+4. O encerramento não prejudicará direitos, indenizações, medidas judiciais ou outras pretensões já constituídas em favor do Titular.
+5. As disposições sobre restrições, titularidade, contribuições, ausência de garantia, responsabilidade, legislação e foro continuarão produzindo efeitos após o encerramento.
+
+## 10. Medidas em caso de violação
+
+A violação desta licença poderá sujeitar o infrator às medidas contratuais e legais cabíveis, incluindo interrupção do uso, remoção de cópias, tutela de urgência, perdas e danos, lucros cessantes e demais reparações permitidas pela legislação aplicável.
+
+A eventual tolerância do Titular não constituirá renúncia, alteração contratual, novação ou autorização para violações presentes ou futuras.
+
+## 11. Ausência de garantia
+
+Na máxima extensão permitida pela legislação aplicável, o Software é fornecido **“como está”** e **“conforme disponível”**, sem garantias expressas ou implícitas, inclusive garantias de adequação a finalidade específica, disponibilidade, ausência de erros, segurança, não violação ou compatibilidade.
+
+O Licenciado é responsável por avaliar o Software, realizar testes, manter cópias de segurança e adotar controles técnicos, operacionais e jurídicos adequados antes de utilizá-lo em produção.
+
+Esta seção não exclui garantias ou responsabilidades que não possam ser legalmente afastadas.
+
+## 12. Limitação de responsabilidade
+
+Na máxima extensão permitida pela legislação aplicável, o Titular não será responsável por danos indiretos, incidentais, especiais, punitivos ou consequenciais, perda de receita, lucro, dados, oportunidade, reputação ou interrupção de atividade decorrentes do uso ou da impossibilidade de uso do Software.
+
+Esta limitação não se aplica nas hipóteses em que a exclusão ou limitação de responsabilidade seja proibida por lei.
+
+## 13. Legislação aplicável e foro
+
+Esta licença será regida pelas leis da República Federativa do Brasil, especialmente pela Lei nº 9.609/1998 e, subsidiariamente, pela Lei nº 9.610/1998 e demais normas aplicáveis.
+
+Fica eleito o foro do domicílio do Titular para resolver controvérsias relacionadas a esta licença, ressalvadas as hipóteses de competência territorial obrigatória previstas em lei.
+
+## 14. Disposições gerais
+
+1. Se qualquer disposição desta licença for considerada inválida ou inexequível, as demais permanecerão em vigor, e a disposição afetada será interpretada, na medida permitida, de modo a preservar sua finalidade econômica e jurídica.
+2. Qualquer exceção, autorização comercial, alteração ou renúncia deverá ser feita por escrito pelo Titular ou por representante legalmente autorizado.
+3. Esta licença constitui o acordo integral relativo às permissões gratuitas concedidas sobre o Software e substitui declarações anteriores sobre o mesmo objeto.
+4. Títulos e resumos são usados apenas para organização e não limitam o alcance das disposições.
+5. Em caso de tradução, a versão em português do Brasil prevalecerá.
+
+---
+
+**Licença comercial:** para vender, redistribuir, integrar comercialmente, prestar serviços baseados no Software ou oferecê-lo como SaaS, é necessário obter autorização comercial específica do Titular.

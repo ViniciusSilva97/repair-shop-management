@@ -76,3 +76,9 @@ Qualquer mudança de regra deve atualizar os documentos afetados na mesma altera
 ## O que significa “comercialmente pronto”
 
 Ter todas as telas não é suficiente. A versão 1.0 somente poderá ser vendida quando passar pelos critérios de liberação documentados no roadmap, incluindo instalador confiável, atualização com migração, backup restaurável, controle de acesso, auditoria, desempenho, documentação, suporte e piloto real.
+
+## Licença
+
+Este projeto é disponibilizado como código-fonte disponível (*source available*) exclusivamente para uso interno. Ele não é oferecido como software *open source*. Revenda, redistribuição, exploração comercial e oferta como SaaS ou serviço gerenciado são proibidas sem autorização prévia e escrita do titular.
+
+Consulte o arquivo [LICENSE](LICENSE) para conhecer os termos completos. Componentes de terceiros permanecem sujeitos às suas próprias licenças.

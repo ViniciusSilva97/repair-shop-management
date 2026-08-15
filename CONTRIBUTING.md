@@ -121,3 +121,6 @@ Exigem decisão explícita e revisão reforçada:
 - dependências e licenças;
 - telemetria ou integrações externas.
 
+## Licenciamento das contribuições
+
+Ao enviar uma contribuição, o autor declara possuir os direitos necessários e concorda com a seção **Contribuições ao projeto** do arquivo [LICENSE](LICENSE), inclusive com a autorização concedida ao titular para uso comercial e relicenciamento da contribuição. Dependências e materiais de terceiros devem ser identificados e permanecer sob suas licenças originais.
